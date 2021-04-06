@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "functions-881e3",
+    "staging": "functions-881e3"
+  }
+}
